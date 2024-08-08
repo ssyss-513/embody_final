@@ -49,6 +49,9 @@ roslaunch moveit_setup_assistant setup_assistant.launch
 6. 在 MotionPlanning 中可对关节进行控制，也可以在 `moveit_assistant` 的 `Planning Group` 中选择配置 MoveIt 的不同规划组。
 
 ## MoveIt 连接 Isaac Sim
+### 整体思路
+
+![1](pic/1.webp)
 
 使用上面新生成的 MoveIt 配置控制仿真环境中的机械臂。
 
