@@ -1,0 +1,8 @@
+prefix=/home/sen/ros/hand_arm_ws/install
+
+Name: new_arm
+Description: Description of new_arm
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

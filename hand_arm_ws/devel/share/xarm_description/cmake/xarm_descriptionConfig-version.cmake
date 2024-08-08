@@ -1,0 +1,1 @@
+/home/sen/ros/hand_arm_ws/devel/.private/xarm_description/share/xarm_description/cmake/xarm_descriptionConfig-version.cmake

@@ -1,0 +1,5 @@
+xarm_description
+/home/sen/ros/hand_arm_ws/devel/.private/xarm_description/cmake.lock /home/sen/ros/hand_arm_ws/devel/./cmake.lock
+/home/sen/ros/hand_arm_ws/devel/.private/xarm_description/share/xarm_description/cmake/xarm_descriptionConfig-version.cmake /home/sen/ros/hand_arm_ws/devel/share/xarm_description/cmake/xarm_descriptionConfig-version.cmake
+/home/sen/ros/hand_arm_ws/devel/.private/xarm_description/share/xarm_description/cmake/xarm_descriptionConfig.cmake /home/sen/ros/hand_arm_ws/devel/share/xarm_description/cmake/xarm_descriptionConfig.cmake
+/home/sen/ros/hand_arm_ws/devel/.private/xarm_description/lib/pkgconfig/xarm_description.pc /home/sen/ros/hand_arm_ws/devel/lib/pkgconfig/xarm_description.pc

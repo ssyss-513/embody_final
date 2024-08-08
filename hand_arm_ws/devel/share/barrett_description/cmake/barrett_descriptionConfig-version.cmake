@@ -1,0 +1,1 @@
+/home/sen/ros/hand_arm_ws/devel/.private/barrett_description/share/barrett_description/cmake/barrett_descriptionConfig-version.cmake

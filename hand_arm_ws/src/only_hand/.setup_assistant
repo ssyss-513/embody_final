@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: barrett_description
+    relative_path: Barrett.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/Barrett.srdf
+  CONFIG:
+    author_name: q
+    author_email: q@2.com
+    generated_timestamp: 1721187207

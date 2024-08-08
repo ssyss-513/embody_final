@@ -1,0 +1,5 @@
+new_robot
+/home/sen/ros/hand_arm_ws/devel/.private/new_robot/cmake.lock /home/sen/ros/hand_arm_ws/devel/./cmake.lock
+/home/sen/ros/hand_arm_ws/devel/.private/new_robot/share/new_robot/cmake/new_robotConfig-version.cmake /home/sen/ros/hand_arm_ws/devel/share/new_robot/cmake/new_robotConfig-version.cmake
+/home/sen/ros/hand_arm_ws/devel/.private/new_robot/share/new_robot/cmake/new_robotConfig.cmake /home/sen/ros/hand_arm_ws/devel/share/new_robot/cmake/new_robotConfig.cmake
+/home/sen/ros/hand_arm_ws/devel/.private/new_robot/lib/pkgconfig/new_robot.pc /home/sen/ros/hand_arm_ws/devel/lib/pkgconfig/new_robot.pc

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/sen/ros/hand_arm_ws/devel/.private/ir100_description/setup.sh

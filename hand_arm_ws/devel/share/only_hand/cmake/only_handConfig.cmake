@@ -1,0 +1,1 @@
+/home/sen/ros/hand_arm_ws/devel/.private/only_hand/share/only_hand/cmake/only_handConfig.cmake

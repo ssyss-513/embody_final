@@ -1,0 +1,1 @@
+/home/sen/ros/hand_arm_ws/devel/.private/ir100_description/share/ir100_description/cmake/ir100_descriptionConfig.cmake

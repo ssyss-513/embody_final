@@ -1,0 +1,8 @@
+prefix=/home/sen/ros/hand_arm_ws/devel/.private/ir100_description
+
+Name: ir100_description
+Description: Description of ir100_description
+Version: 1.1.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: urdf xacro

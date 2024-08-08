@@ -1,0 +1,8 @@
+prefix=/home/sen/ros/hand_arm_ws/devel/.private/only_arm
+
+Name: only_arm
+Description: Description of only_arm
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

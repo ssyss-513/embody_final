@@ -1,0 +1,3 @@
+Symlinking /home/sen/ros/hand_arm_ws/devel/share/ir100_description/cmake/ir100_descriptionConfig.cmake
+Symlinking /home/sen/ros/hand_arm_ws/devel/share/ir100_description/cmake/ir100_descriptionConfig-version.cmake
+Symlinking /home/sen/ros/hand_arm_ws/devel/lib/pkgconfig/ir100_description.pc

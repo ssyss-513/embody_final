@@ -1,0 +1,1 @@
+/home/sen/ros/hand_arm_ws/devel/.private/new_robot/share/new_robot/cmake/new_robotConfig.cmake

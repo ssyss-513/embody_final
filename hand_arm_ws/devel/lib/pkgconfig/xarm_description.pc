@@ -1,0 +1,1 @@
+/home/sen/ros/hand_arm_ws/devel/.private/xarm_description/lib/pkgconfig/xarm_description.pc

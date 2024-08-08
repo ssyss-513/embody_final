@@ -1,0 +1,1 @@
+/home/sen/ros/hand_arm_ws/devel/.private/only_arm/lib/pkgconfig/only_arm.pc
